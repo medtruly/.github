@@ -20,9 +20,9 @@
 - [ ] E2E Test (Cypress)
 
 ## Manual Testing Details
-<!-- include testing details if any, like requests/responses, steps to follow, to help document the testing procedures, which other members can follow -->
+<!-- include testing details and instructions if any, like requests/responses, steps to follow, to help document the testing procedures, which other team members can also follow -->
 
-# Checklist:
+# Checklist
 - [ ] I have performed a self-review and testing of my code
 - [ ] New and existing tests pass with my changes
 - [ ] My code follows the style guidelines of this project
