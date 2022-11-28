@@ -27,9 +27,10 @@
 - [ ] New and existing tests pass with my changes
 - [ ] My code follows the style guidelines of this project
 - [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
 - [ ] Any dependent changes have been merged and published in downstream modules
+
+- [ ] I have made corresponding changes to the documentation
 - [ ] I have added the necessary analytics to measure the further performance for the changes if any.
 - [ ] I have created tech debts or followup chanages if any (list below)
 
